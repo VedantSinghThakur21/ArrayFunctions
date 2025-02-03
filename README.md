@@ -38,17 +38,17 @@ This Java program processes user-input numbers through multiple tasks. It separa
 
 ArrayFunctions
 
- ├── Main.java               # Entry point of the program
+  ├── Main.java               # Entry point of the program
  
- ├── UserInputHandler.java   # Handles user input operations
+  ├── UserInputHandler.java   # Handles user input operations
  
- ├── EvenOddSeparator.java   # Separates even and odd numbers
+  ├── EvenOddSeparator.java   # Separates even and odd numbers
  
- ├── SmallestDistanceFinder.java # Finds smallest adjacent pair index
+  ├── SmallestDistanceFinder.java # Finds smallest adjacent pair index
  
- ├── ArrayConverter.java     # Converts array to ArrayList and back
+  ├── ArrayConverter.java     # Converts array to ArrayList and back
  
- └── README.md               # Project documentation
+  └── README.md               # Project documentation
 
  ---
  
