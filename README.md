@@ -37,6 +37,7 @@ This Java program processes user-input numbers through multiple tasks. It separa
 ## **Project Structure**  
 
 ArrayFunctions
+
  ├── Main.java               # Entry point of the program
  
  ├── UserInputHandler.java   # Handles user input operations
