@@ -73,26 +73,39 @@ javac Main.java UserInputHandler.java EvenOddSeparator.java SmallestDistanceFind
 ## **Code Explanation**
 
 1️⃣ Main.java (Entry Point)
+
 Handles user input.
+
 Calls the necessary classes to process the data.
+
 Displays the final results.
 
 2️⃣ UserInputHandler.java (Handles User Input)
+
 Reads an integer array from the user.
+
 Uses a Scanner for input handling.
+
 Closes the scanner at the end.
 
 3️⃣ EvenOddSeparator.java (Separates Even and Odd Numbers)
+
 Iterates through the array.
+
 Stores even and odd numbers in separate lists.
+
 Prints them to the console.
 
 4️⃣ SmallestDistanceFinder.java (Finds Smallest Adjacent Pair)
+
 Calculates the absolute difference between adjacent elements.
+
 Identifies the index of the first number in the smallest adjacent pair.
 
 5️⃣ ArrayConverter.java (Converts Array to ArrayList and Back)
+
 Converts an integer array to a List<Integer>.
+
 Converts the ArrayList back to an integer array.
 
 ---
