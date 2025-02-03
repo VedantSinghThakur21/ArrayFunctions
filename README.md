@@ -49,4 +49,19 @@ ArrayFunctions
  ├── ArrayConverter.java     # Converts array to ArrayList and back
  
  └── README.md               # Project documentation
+
+ ---
  
+## **Contributors**
+
+Vedant Singh Thakur
+
+Batch: AIML B3
+
+PRN: 23070126144
+
+---
+
+## **License**
+
+This Project is Open-Src and free to use for any educational purposes
