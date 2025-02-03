@@ -51,7 +51,30 @@ ArrayFunctions
   └── README.md               # Project documentation
 
  ---
+
  
+---
+
+## **How It Works**  
+1. The program asks the user for the size of an integer array.  
+2. The user inputs the array elements.  
+3. It then performs the following operations:  
+   - **Separates even and odd numbers** and displays them.  
+   - **Finds the index of the first number** in the smallest adjacent pair based on absolute difference.  
+   - **Converts the array to an `ArrayList`** and back to an array.  
+4. Finally, the program outputs the results and closes the scanner.  
+
+---
+
+## **Installation & Execution**  
+
+### **Step 1: Compile the Java Files**
+```sh
+javac Main.java UserInputHandler.java EvenOddSeparator.java SmallestDistanceFinder.java ArrayConverter.java
+```
+
+---
+
 ## **Contributors**
 
 Vedant Singh Thakur
