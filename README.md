@@ -49,9 +49,6 @@ ArrayFunctions
   ├── ArrayConverter.java     # Converts array to ArrayList and back
  
   └── README.md               # Project documentation
-
- ---
-
  
 ---
 
